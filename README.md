@@ -1,2 +1,2 @@
-# codejam
+# Codejam
 Collaborative code playground.
